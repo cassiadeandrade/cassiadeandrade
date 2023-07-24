@@ -12,7 +12,7 @@
 <div>
   <a href="https://github.com/cassiadeandrade">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cassiadeandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiadeandrade&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiadeandrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,9 +25,7 @@
   <img align="center" alt="Cassia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<div align="center">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cassiadeandrade&bg_color=000000&color=eaa9e5&line=7d01b7&point=1fd8db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ![snake gif](https://github.com/cassiadeandrade/cassiadeandrade/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 
