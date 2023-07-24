@@ -27,7 +27,7 @@
 
 <div align="center">
 
-  ![snake gif](https://github.com/Cassiadeandrade/Cassiadeandrade/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/cassiadeandrade/cassiadeandrade/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
