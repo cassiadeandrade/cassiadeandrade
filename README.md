@@ -1,4 +1,4 @@
-<h1><em>Oii! Eu sou a Cássia de Andrade✌🏼 </em></h1>
+<h1>Oii! Eu sou a Cássia de Andrade✌🏼</h1>
 
 ##
 
