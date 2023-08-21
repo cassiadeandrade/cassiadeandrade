@@ -11,7 +11,6 @@
   
 <div>
   <a href="https://github.com/cassiadeandrade">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cassiadeandrade&show_icons=true&theme=dracula&count_all_commit=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiadeandrade&layout=compact&langs_count=7&theme=dracula&count"/>
 </div>
 
